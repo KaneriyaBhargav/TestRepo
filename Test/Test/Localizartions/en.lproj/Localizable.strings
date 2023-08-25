@@ -1,0 +1,10 @@
+//
+//  Localizable.strings
+//  AwesomeProject
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// MARK: Application
+"appName"                   = "SIMFORM";
+
